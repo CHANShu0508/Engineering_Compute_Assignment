@@ -9,7 +9,7 @@ This is my repository to store the codes (wroten in C and matlab) of the assignm
 * To see the detail of this assignment, please see the report of this assignment:
 
   * The [pdf version](/report/Assignment_report.pdf) **(Recommended)**
-  * The [HTML version](/report/Assignment_report.html)
+  * The [HTML version](/report/Assignment_report.html) (View please downloadfirst)
 
   * The [Markdown version](/report/Assignment_report.md) (Latex formula lost)
 
