@@ -14,17 +14,17 @@ The problems I have chosen is:
 
   * The problem 2 of EXERCISE SET 4.3 on page 202 of the text book:
 
-    <img src="/image/1.png" />
+    <img src="/report/image/1.png" />
 
   * The problem 22 of EXERCISE SET 4.4 on page 211 of the text book:
 
-    <img src="/image/2.png" />
+    <img src="/report/image/2.png" />
 
 * For differentials:
 
   * The problem 1 of EXERCISE SET 4.1 on page 182 of the text book: 
 
-    <img src="/image/3.png" />
+    <img src="/report/image/3.png" />
 
 ## 2.0 The ideas
 
