@@ -29,7 +29,7 @@ This is my repository to store the codes (wroten in C and matlab) of the assignm
 
   * The second integral problem:
     
-    [C](/two_integral_problem/simpson.c) or [MATLAB](/two_integral_problem/simpuson.m)
+    [C](/two_integral_problem/simpson_22.c) or [MATLAB](/two_integral_problem/simpuson.m)
 
 * The differential problem
 
