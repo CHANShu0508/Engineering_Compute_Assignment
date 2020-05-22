@@ -20,7 +20,7 @@ int main()
 
     result = sum1 + sum2 + speed[0] + speed[14];
     result *= (h / 6);
-    printf("\nThe track is %.6f feets.\n", result);
+    printf("\nThe track is %.0f feets.\n", result);
 
     return 0;
 }
