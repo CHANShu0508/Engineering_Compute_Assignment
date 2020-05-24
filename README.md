@@ -19,9 +19,9 @@ This is my repository to store the codes (wroten in C and matlab) of the assignm
 
   * The first integral problems:
   
-    * question a: [C](/two_integral_problem/trape_2a.c) or [MATLAB](/two_integral_problem/trapezoidal_2a.m)
+    * question a: [C](/two_integral_problem/trape_2a.c) or [MATLAB](/two_integral_problem/trapezoid_2a.m)
 
-    * question b: [C](/two_integral_problem/trape_2b.c) or [MATLAB](/two_integral_problem/trapezoidal_2b.m)
+    * question b: [C](/two_integral_problem/trape_2b.c) or [MATLAB](/two_integral_problem/trapezoid_2b.m)
 
     * question c: [C](/two_integral_problem/trape_2c.c) or [MATLAB](/two_integral_problem/trapezoidal_2c.m)
 
@@ -29,7 +29,7 @@ This is my repository to store the codes (wroten in C and matlab) of the assignm
 
   * The second integral problem:
     
-    [C](/two_integral_problem/simpson_22.c) or [MATLAB](/two_integral_problem/simpuson.m)
+    [C](/two_integral_problem/simpson_22.c) or [MATLAB](/two_integral_problem/simpuson_22.m)
 
 * The differential problem
 
